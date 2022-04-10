@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hiringreact/static/css/main.10bbb93b.css",
+    "main.js": "/hiringreact/static/js/main.28508fd3.js",
+    "static/js/787.af41defc.chunk.js": "/hiringreact/static/js/787.af41defc.chunk.js",
+    "index.html": "/hiringreact/index.html",
+    "main.10bbb93b.css.map": "/hiringreact/static/css/main.10bbb93b.css.map",
+    "main.28508fd3.js.map": "/hiringreact/static/js/main.28508fd3.js.map",
+    "787.af41defc.chunk.js.map": "/hiringreact/static/js/787.af41defc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10bbb93b.css",
+    "static/js/main.28508fd3.js"
+  ]
+}
